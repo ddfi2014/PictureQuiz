@@ -1,0 +1,37 @@
+H:\C#\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe.config
+H:\C#\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe
+H:\C#\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.pdb
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csprojResolveAssemblyReference.cache
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.FormQuiz.resources
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.Properties.Resources.resources
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csproj.GenerateResource.Cache
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.exe
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.pdb
+H:\C#\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.dll
+H:\C#\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.pdb
+H:\C#\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.TelephoneJokerDialog.resources
+H:\CS\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe.config
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.exe
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.pdb
+H:\CS\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe
+H:\CS\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.pdb
+H:\CS\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.dll
+H:\CS\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.pdb
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csprojResolveAssemblyReference.cache
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.FormQuiz.resources
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.Properties.Resources.resources
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.TelephoneJokerDialog.resources
+H:\CS\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\PictureQuiz.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.dll
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\PictureQuizDB.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.FormQuiz.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.TelephoneJokerDialog.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\obj\Debug\PictureQuiz.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\PictureQuiz\PictureQuiz\bin\Debug\Resources\TestQuiz.accdb
